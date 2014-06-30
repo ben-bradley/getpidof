@@ -1,0 +1,20 @@
+{
+  "name": "getpidof",
+  "version": "0.0.1",
+  "description": "Tool to get the PID of a specified command",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -R spec"
+  },
+  "keywords": [
+    "pid",
+    "ps",
+    "pidof"
+  ],
+  "author": "Ben Bradley",
+  "license": "MIT",
+  "devDependencies": {
+    "should": "^4.0.4",
+    "mocha": "^1.20.1"
+  }
+}
